@@ -52,10 +52,6 @@ public with sharing class FlowControlLoopsCollections {
         }
     }
 
-    public static Integer sumPositiveIntegers(Integer num) {
-        Integer sum = 0;
-        return null; // Replace null with the variable you used to store the result
-    }
 
     /**
      * Question 3
